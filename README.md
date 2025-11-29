@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishakumari26&label=Profile%20views&color=0e75b6&style=flat" alt="nishakumari26" /> </p>
 
-- 🌱 I’m currently learning **c++ with dsa and fullstack development**
+- 🌱 I’m currently learning **java with dsa and fullstack development**
 
 - 📫 How to reach me **nishubarnwal300@gmail.com**
 
