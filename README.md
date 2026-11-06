@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Nisha Kumari
 
-### 📊 Aspiring Data Scientist | AI/ML Enthusiast | Data Analyst
-
-Final-year **B.Tech (Information Technology)** student at **Netaji Subhash Engineering College, Kolkata**. I turn raw data into insights and build ML and GenAI systems — from predictive models and recommendation engines to Agentic RAG pipelines and analytics dashboards.
+### 📊 Aspiring Data Scientist | AI/ML Enthusiast | Data Analys
+**B.Tech (Information Technology)** student at **Netaji Subhash Engineering College, Kolkata**. I turn raw data into insights and build ML and GenAI systems — from predictive models and recommendation engines to Agentic RAG pipelines and analytics dashboards.
 
 📍 Kolkata, West Bengal, India
 
